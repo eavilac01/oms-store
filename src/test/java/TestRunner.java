@@ -4,7 +4,7 @@ import io.cucumber.junit.CucumberOptions;
 import org.junit.AfterClass;
 import org.junit.runner.RunWith;
 import page.SessionPage;
-import printMessages.Messages;
+import print_messages.Messages;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 

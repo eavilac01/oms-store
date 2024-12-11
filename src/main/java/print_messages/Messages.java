@@ -1,4 +1,4 @@
-package printMessages;
+package print_messages;
 
 public class Messages {
 
